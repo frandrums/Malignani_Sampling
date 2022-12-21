@@ -24,7 +24,7 @@ pitchRatio =
 fsChanged =
 
 % Ottieni un'approssimazione della frazione fra sampling rate originale e TikTok
-[L,M] =
+[L,M] =  % Usa approssimazione a 1e-5
 
 % Upsampling
 originalVoiceUp =
